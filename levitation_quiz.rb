@@ -5,7 +5,6 @@ def levitation_quiz
 	  answer = gets.chomp
 	  if answer = "Wingardium Leviosa"
 	    break
-	  end
 	end
 end
 
